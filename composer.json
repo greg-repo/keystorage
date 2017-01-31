@@ -1,0 +1,19 @@
+{
+    "name": "greg-repo/keystorage",
+    "type": "extension",
+    "require": {
+        "yiisoft/yii2": "^2.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Greg",
+            "email": "greg.georg.popov@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "keystorage\\": ""
+        }
+    }
+}
