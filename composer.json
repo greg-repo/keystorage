@@ -11,6 +11,7 @@
             "email": "greg.georg.popov@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "keystorage\\": ""
