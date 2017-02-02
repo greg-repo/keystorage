@@ -14,7 +14,7 @@ use keystorage\models\KeyStroageFormModel;
 class KeyStorage extends Widget
 {
     /**
-     * @var lun324\keystorage\models\KeyStroageFormModel
+     * @var \keystorage\models\KeyStroageFormModel
      */
     public $model;
     /**
